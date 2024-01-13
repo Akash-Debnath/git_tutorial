@@ -10,5 +10,6 @@
     <?php
         echo 'I am AKash';
     ?>
+    <p>Thank you for watching.</p>
 </body>
 </html>
