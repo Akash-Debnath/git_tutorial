@@ -6,6 +6,7 @@
     <title>Git Stash Tutorial</title>
 </head>
 <body>
-    <h2>We are Learning <span class="strong">Git Stash!</span></h2>
+    <p>Hey DUDE! How are you?</p>
+    <h2>Are you ready to Learning <span class="strong">Git Stash?</span></h2>
 </body>
 </html>
