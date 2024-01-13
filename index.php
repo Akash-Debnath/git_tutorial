@@ -6,7 +6,9 @@
     <title>Git Stash Tutorial</title>
 </head>
 <body>
-    <p>Hey DUDE! How are you?</p>
-    <h2>Are you ready to Learning <span class="strong">Git Stash?</span></h2>
+    <h1>Welcome Everyone</h1>
+    <?php
+        echo 'I am AKash';
+    ?>
 </body>
 </html>
