@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2>We are Learning <span class="strong">Git Stash!</span></h2>
+    <p>Starting here...</p>
 </body>
 </html>
