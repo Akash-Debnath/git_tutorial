@@ -6,10 +6,9 @@
     <title>Git Stash Tutorial</title>
 </head>
 <body>
-    <h1>Welcome Everyone</h1>
+    <h1>Welcome Everyone! Now We're trying to know uses of <span class="strong">Git Stash</span></h1>
     <?php
         echo 'I am AKash';
     ?>
-    <p>Thank you for watching.</p>
 </body>
 </html>
